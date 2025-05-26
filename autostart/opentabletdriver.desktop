@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=OpenTabletDriver
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=OpenTabletDriver
+Comment=Start OpenTabletDriver on login

@@ -1,0 +1,211 @@
+5/26/2025, 1:41:01 AM GMT+8 6: ✅ webContents.did-finish-load web1
+5/26/2025, 1:41:01 AM GMT+8 7: ✅ webContents.created web2 ""
+5/26/2025, 1:41:01 AM GMT+8 8: ✅ window.created win2 "Discord"
+5/26/2025, 1:41:02 AM GMT+8 9: ✅ webContents.did-finish-load web2
+5/26/2025, 1:41:02 AM GMT+8 10: window.close win1
+5/26/2025, 1:41:02 AM GMT+8 11: webContents.destroyed web1
+5/26/2025, 1:41:02 AM GMT+8 12: window.closed win1
+5/26/2025, 1:43:58 AM GMT+8 13: ✅ webContents.did-finish-load web2
+5/26/2025, 1:46:26 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:46:26 AM GMT+8 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/james/.config/discord/0.0.95/modules
+5/26/2025, 1:46:26 AM GMT+8 2: ✅ webContents.created web1 ""
+5/26/2025, 1:46:26 AM GMT+8 3: ✅ window.created win1 "discord"
+5/26/2025, 1:46:27 AM GMT+8 4: ✅ webContents.did-finish-load web1
+5/26/2025, 1:46:27 AM GMT+8 5: ✅ webContents.created web2 ""
+5/26/2025, 1:46:27 AM GMT+8 6: ✅ window.created win2 "Discord"
+5/26/2025, 1:46:28 AM GMT+8 7: ✅ webContents.did-finish-load web2
+5/26/2025, 1:46:29 AM GMT+8 8: window.close win1
+5/26/2025, 1:46:29 AM GMT+8 9: webContents.destroyed web1
+5/26/2025, 1:46:29 AM GMT+8 10: window.closed win1
+5/26/2025, 1:46:57 AM GMT+8 11: window.close win2
+5/26/2025, 1:46:59 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:47:10 AM GMT+8 12: window.close win2
+5/26/2025, 1:47:29 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:47:33 AM GMT+8 13: window.close win2
+5/26/2025, 1:47:56 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:47:59 AM GMT+8 14: window.close win2
+5/26/2025, 1:48:15 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:48:34 AM GMT+8 15: window.close win2
+5/26/2025, 1:49:04 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:49:22 AM GMT+8 16: window.close win2
+5/26/2025, 1:49:42 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:49:52 AM GMT+8 17: window.close win2
+5/26/2025, 1:51:14 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:51:16 AM GMT+8 18: window.close win2
+5/26/2025, 1:51:56 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:52:00 AM GMT+8 19: window.close win2
+5/26/2025, 1:52:04 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:53:03 AM GMT+8 20: window.close win2
+5/26/2025, 1:53:13 AM GMT+8 21: before-quit
+5/26/2025, 1:54:24 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:54:24 AM GMT+8 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/james/.config/discord/0.0.95/modules
+5/26/2025, 1:54:24 AM GMT+8 2: ✅ webContents.created web1 ""
+5/26/2025, 1:54:24 AM GMT+8 3: ✅ window.created win1 "discord"
+5/26/2025, 1:54:25 AM GMT+8 4: ✅ webContents.did-finish-load web1
+5/26/2025, 1:54:25 AM GMT+8 5: ✅ webContents.created web2 ""
+5/26/2025, 1:54:25 AM GMT+8 6: ✅ window.created win2 "Discord"
+5/26/2025, 1:54:26 AM GMT+8 7: ✅ webContents.did-finish-load web2
+5/26/2025, 1:54:26 AM GMT+8 8: window.close win1
+5/26/2025, 1:54:26 AM GMT+8 9: webContents.destroyed web1
+5/26/2025, 1:54:26 AM GMT+8 10: window.closed win1
+5/26/2025, 1:55:13 AM GMT+8 11: before-quit
+5/26/2025, 1:55:13 AM GMT+8 12: window.close win2
+5/26/2025, 1:55:13 AM GMT+8 13: webContents.destroyed web2
+5/26/2025, 1:55:14 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:55:14 AM GMT+8 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/james/.config/discord/0.0.95/modules
+5/26/2025, 1:55:14 AM GMT+8 2: ✅ webContents.created web1 ""
+5/26/2025, 1:55:14 AM GMT+8 3: ✅ window.created win1 "discord"
+5/26/2025, 1:55:14 AM GMT+8 4: ✅ webContents.did-finish-load web1
+5/26/2025, 1:55:15 AM GMT+8 5: ✅ webContents.created web2 ""
+5/26/2025, 1:55:15 AM GMT+8 6: ✅ window.created win2 "Discord"
+5/26/2025, 1:55:15 AM GMT+8 7: ✅ webContents.did-finish-load web2
+5/26/2025, 1:55:16 AM GMT+8 8: window.close win1
+5/26/2025, 1:55:16 AM GMT+8 9: webContents.destroyed web1
+5/26/2025, 1:55:16 AM GMT+8 10: window.closed win1
+5/26/2025, 1:55:46 AM GMT+8 11: ✅ webContents.did-finish-load web2
+5/26/2025, 1:55:59 AM GMT+8 12: window.close win2
+5/26/2025, 1:56:33 AM GMT+8 13: before-quit
+5/26/2025, 1:56:33 AM GMT+8 14: window.close win2
+5/26/2025, 1:57:26 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:57:26 AM GMT+8 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/james/.config/discord/0.0.95/modules
+5/26/2025, 1:57:26 AM GMT+8 2: ✅ webContents.created web1 ""
+5/26/2025, 1:57:26 AM GMT+8 3: ✅ window.created win1 "discord"
+5/26/2025, 1:57:27 AM GMT+8 4: ✅ webContents.did-finish-load web1
+5/26/2025, 1:57:27 AM GMT+8 5: ✅ webContents.created web2 ""
+5/26/2025, 1:57:27 AM GMT+8 6: ✅ window.created win2 "Discord"
+5/26/2025, 1:57:28 AM GMT+8 7: ✅ webContents.did-finish-load web2
+5/26/2025, 1:57:28 AM GMT+8 8: window.close win1
+5/26/2025, 1:57:28 AM GMT+8 9: webContents.destroyed web1
+5/26/2025, 1:57:28 AM GMT+8 10: window.closed win1
+5/26/2025, 1:57:53 AM GMT+8 11: before-quit
+5/26/2025, 1:57:53 AM GMT+8 12: window.close win2
+5/26/2025, 1:57:53 AM GMT+8 13: webContents.destroyed web2
+5/26/2025, 1:57:53 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 1:57:53 AM GMT+8 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/james/.config/discord/0.0.95/modules
+5/26/2025, 1:57:53 AM GMT+8 2: ✅ webContents.created web1 ""
+5/26/2025, 1:57:53 AM GMT+8 3: ✅ window.created win1 "discord"
+5/26/2025, 1:57:54 AM GMT+8 4: ✅ webContents.did-finish-load web1
+5/26/2025, 1:57:54 AM GMT+8 5: ✅ webContents.created web2 ""
+5/26/2025, 1:57:54 AM GMT+8 6: ✅ window.created win2 "Discord"
+5/26/2025, 1:57:55 AM GMT+8 7: ✅ webContents.did-finish-load web2
+5/26/2025, 1:57:55 AM GMT+8 8: window.close win1
+5/26/2025, 1:57:55 AM GMT+8 9: webContents.destroyed web1
+5/26/2025, 1:57:55 AM GMT+8 10: window.closed win1
+5/26/2025, 2:02:31 AM GMT+8 11: before-quit
+5/26/2025, 2:02:31 AM GMT+8 12: window.close win2
+5/26/2025, 2:02:31 AM GMT+8 13: webContents.destroyed web2
+5/26/2025, 2:02:32 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 2:02:32 AM GMT+8 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/james/.config/discord/0.0.95/modules
+5/26/2025, 2:02:32 AM GMT+8 2: ✅ webContents.created web1 ""
+5/26/2025, 2:02:32 AM GMT+8 3: ✅ window.created win1 "discord"
+5/26/2025, 2:02:32 AM GMT+8 4: ✅ webContents.did-finish-load web1
+5/26/2025, 2:02:33 AM GMT+8 5: ✅ webContents.created web2 ""
+5/26/2025, 2:02:33 AM GMT+8 6: ✅ window.created win2 "Discord"
+5/26/2025, 2:02:34 AM GMT+8 7: ✅ webContents.did-finish-load web2
+5/26/2025, 2:02:34 AM GMT+8 8: window.close win1
+5/26/2025, 2:02:34 AM GMT+8 9: webContents.destroyed web1
+5/26/2025, 2:02:34 AM GMT+8 10: window.closed win1
+5/26/2025, 2:03:47 AM GMT+8 11: ✅ webContents.did-finish-load web2
+5/26/2025, 2:05:20 AM GMT+8 12: window.close win2
+5/26/2025, 2:05:26 AM GMT+8 13: before-quit
+5/26/2025, 2:06:19 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 2:06:19 AM GMT+8 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/james/.config/discord/0.0.95/modules
+5/26/2025, 2:06:19 AM GMT+8 2: ✅ webContents.created web1 ""
+5/26/2025, 2:06:19 AM GMT+8 3: ✅ window.created win1 "discord"
+5/26/2025, 2:06:19 AM GMT+8 4: ✅ webContents.did-finish-load web1
+5/26/2025, 2:06:20 AM GMT+8 5: ✅ webContents.created web2 ""
+5/26/2025, 2:06:20 AM GMT+8 6: ✅ window.created win2 "Discord"
+5/26/2025, 2:06:21 AM GMT+8 7: ✅ webContents.did-finish-load web2
+5/26/2025, 2:06:21 AM GMT+8 8: window.close win1
+5/26/2025, 2:06:21 AM GMT+8 9: webContents.destroyed web1
+5/26/2025, 2:06:21 AM GMT+8 10: window.closed win1
+5/26/2025, 2:10:53 AM GMT+8 11: window.close win2
+5/26/2025, 2:15:47 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 2:20:09 AM GMT+8 12: window.close win2
+5/26/2025, 2:21:14 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 2:21:20 AM GMT+8 13: window.close win2
+5/26/2025, 2:21:47 AM GMT+8 14: before-quit
+5/26/2025, 2:21:47 AM GMT+8 15: window.close win2
+5/26/2025, 2:22:26 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 2:22:26 AM GMT+8 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/james/.config/discord/0.0.95/modules
+5/26/2025, 2:22:26 AM GMT+8 2: ✅ webContents.created web1 ""
+5/26/2025, 2:22:26 AM GMT+8 3: ✅ window.created win1 "discord"
+5/26/2025, 2:22:27 AM GMT+8 4: ✅ webContents.did-finish-load web1
+5/26/2025, 2:22:27 AM GMT+8 5: ✅ webContents.created web2 ""
+5/26/2025, 2:22:27 AM GMT+8 6: ✅ window.created win2 "Discord"
+5/26/2025, 2:22:28 AM GMT+8 7: ✅ webContents.did-finish-load web2
+5/26/2025, 2:22:28 AM GMT+8 8: window.close win1
+5/26/2025, 2:22:28 AM GMT+8 9: webContents.destroyed web1
+5/26/2025, 2:22:28 AM GMT+8 10: window.closed win1
+5/26/2025, 2:23:11 AM GMT+8 11: window.close win2
+5/26/2025, 2:23:57 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 2:24:06 AM GMT+8 12: window.close win2
+5/26/2025, 2:24:10 AM GMT+8 13: before-quit
+5/26/2025, 2:24:10 AM GMT+8 14: window.close win2
+5/26/2025, 9:34:24 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 9:34:24 AM GMT+8 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/james/.config/discord/0.0.95/modules
+5/26/2025, 9:34:24 AM GMT+8 2: ✅ webContents.created web1 ""
+5/26/2025, 9:34:24 AM GMT+8 3: ✅ window.created win1 "discord"
+5/26/2025, 9:34:24 AM GMT+8 4: ✅ webContents.did-finish-load web1
+5/26/2025, 9:34:25 AM GMT+8 5: ✅ webContents.created web2 ""
+5/26/2025, 9:34:25 AM GMT+8 6: ✅ window.created win2 "Discord"
+5/26/2025, 9:34:26 AM GMT+8 7: ✅ webContents.did-finish-load web2
+5/26/2025, 9:34:26 AM GMT+8 8: window.close win1
+5/26/2025, 9:34:26 AM GMT+8 9: webContents.destroyed web1
+5/26/2025, 9:34:26 AM GMT+8 10: window.closed win1
+5/26/2025, 9:39:13 AM GMT+8 11: before-quit
+5/26/2025, 9:46:20 AM GMT+8 0: 
+
+----------------------------------------------
+5/26/2025, 9:46:20 AM GMT+8 1: Discord starting: {"releaseChannel":"stable","version":"0.0.95"}, modulepath: /home/james/.config/discord/0.0.95/modules
+5/26/2025, 9:46:20 AM GMT+8 2: ✅ webContents.created web1 ""
+5/26/2025, 9:46:20 AM GMT+8 3: ✅ window.created win1 "discord"
+5/26/2025, 9:46:21 AM GMT+8 4: ✅ webContents.did-finish-load web1
+5/26/2025, 9:46:21 AM GMT+8 5: ✅ webContents.created web2 ""
+5/26/2025, 9:46:21 AM GMT+8 6: ✅ window.created win2 "Discord"
+5/26/2025, 9:46:22 AM GMT+8 7: ✅ webContents.did-finish-load web2
+5/26/2025, 9:46:22 AM GMT+8 8: window.close win1
+5/26/2025, 9:46:22 AM GMT+8 9: webContents.destroyed web1
+5/26/2025, 9:46:22 AM GMT+8 10: window.closed win1
